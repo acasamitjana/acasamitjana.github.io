@@ -48,14 +48,23 @@ layout: default
           <p>Authors: {{ page.authors }} </p>
         {% endif %}
 
-        {% if page.pdflink and page.citationlink %}
-          <p> <a href="{{ page.pdflink }}"> [PDF]</a>  <a href="{{ page.citationlink }}"> [CITE]</a> </p>
-        {% elsif page.pdflink %}
-          <p> <a href="{{ page.pdflink }}"> [PDF]</a> </p>
-        {% elsif  page.citationlink %}
-          <p> <a href="{{ page.citationlink }}"> [CITE]</a> </p>
+        {% if page.collection == 'publications' %}
+          {% if page.pdflink and page.citationlink %}
+            <p> <a href="{{ page.pdflink }}"> [PDF]</a>  <a href="{{ page.citationlink }}"> [CITE]</a> </p>
+          {% elsif page.pdflink %}
+            <p> <a href="{{ page.pdflink }}"> [PDF]</a> </p>
+          {% elsif  page.citationlink %}
+            <p> <a href="{{ page.citationlink }}"> [CITE]</a> </p>
+          {% endif %}
+        {% elsif page.collection == 'resources' %}
+          {% if page.resourceurl and page.code %}
+            <p> <a href="{{ page.resourceurl }}"> [RESOURCE URL]</a>  <a href="{{ page.code }}"> [CODE]</a> </p>
+          {% elsif page.pdflink %}
+            <p> <a href="{{ page.resourceurl }}"> [RESOURCE URL]</a> </p>
+          {% elsif  page.code %}
+            <p> <a href="{{ page.code }}"> [CODE]</a> </p>
+          {% endif %}
         {% endif %}
-
     
         </header>
       {% endunless %}

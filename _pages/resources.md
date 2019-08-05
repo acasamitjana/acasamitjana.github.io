@@ -1,59 +1,16 @@
 ---
-layout: archive
 title: "Resources"
+layout: archive
 permalink: /resources/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Software
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<b>[NeAT: A nonlinear neuroimaging analysis toolbox.](https://acasamitjana.github.io/personal-webpage-jekyll/resources/software-NeAT)<br/>
+Authors: <b>Adrià Casamitjana</b>, Santi Puch, Asier Aduriz, Verónica Vilaplana, Juando Gispert, José Luis Molinuevo<br/>
+<p>We implemented a new neuroimaging analysis toolbox for modeling linear and nonlinear effects overcoming the limitations of the standard neuroimaging processing tools that perform statistical inference based only on linear models. NeAT is a modular,  exible and user-friendly tool via command line interface that provides a range of statistical and machine learning non-linear methods for model estimation. Several metrics based on curve fitting and complexity are used for model inference. The toolbox includes a graphical user interface (GUI) for visualization of results.</p>
+[[Resource URL](https://imatge-upc.github.io/neat-tool/)]
+[[Code](https://github.com/acasamitjana/NeAT)]
