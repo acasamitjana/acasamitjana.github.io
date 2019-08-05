@@ -1,0 +1,16 @@
+---
+title: Prediction of amyloid pathology in cognitively unimpaired individuals using voxelwise analysis of longitudinal structural brain MRI 
+collection: publications
+type: journal
+permalink: publication/2019-ART-Prediction
+date: 2019-07-23
+venue: Alzheimer’s\`s Research and Therapy
+authors: Paula M. Petrone\*, <b>Adrià Casamitjana</b>\*, Carles Falcón, Miquel Artigues, Grégory Operto, Raffaele Cacciaglia, José Luis Molinuevo, Verónica Vilaplana, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative
+pdflink: https://drive.google.com/file/d/1Ed4m6bSzk2TwNmu_PbtlcJqxy3ijn5Us/view
+---
+
+## Abstract
+Background: Magnetic resonance imaging (MRI) has unveiled specific alterations at different stages of Alzheimer\`s disease (AD) pathophysiologic continuum constituting what has been established as ‘AD signature’. To what extent MRI can detect amyloid-related cerebral changes from structural MRI in cognitively unimpaired individuals is still an area open for exploration.
+Method: Longitudinal 3D-T1 MRI scans were acquired from a subset of the ADNI cohort comprising 403 subjects: 79 controls (Ctrls), 50 preclinical AD (PreAD), 274 MCI and dementia due to AD (MCI/AD). Amyloid CSF was used as gold-standard measure with established cut-offs (<192pg/mL) to establish diagnostic categories. Cognitively unimpaired individuals were defined as Ctrls if were amyloid negative and PreAD otherwise. The MCI/AD group was amyloid positive. Only subjects with the same diagnostic category at baseline and follow-up visits were considered for the study. Longitudinal morphometric analysis was performed using SPM12 to calculate Jacobian determinant maps. Statistical analysis was carried out on these jacobian maps to identify structural changes that were significantly different between diagnostic categories. A machine learning classifier was applied on Jacobian determinant maps to predict the presence of abnormal amyloid levels in cognitively unimpaired individuals. The performance of this classifier was evaluated using receiver operating characteristic curve analysis and as a function of the follow-up time between MRI scans. We applied a cost function to assess the benefit of using this classifier in the triaging of individuals in a clinical trial-recruitment setting.
+Results: The optimal follow-up time for classification of Ctrls vs PreAD was Δt>2.5 years and hence, only subjects within this temporal span are used for evaluation (15 Ctrls, 10 PreAD). The longitudinal voxel-based classifier achieved an AUC=0.87 (95%CI:0.72-0.97). The brain regions that showed the highest discriminative power to detect amyloid abnormalities were the medial, inferior and lateral temporal lobes, precuneus, caudate heads, basal forebrain and lateral ventricles.
+Conclusions: Our work supports that machine learning applied to longitudinal brain volumetric changes can be used to predict, with high precision, presence of amyloid abnormalities in cognitively unimpaired subjects. Used as a triaging method to identify a fixed number of amyloid positive individuals, this longitudinal voxelwise classifier is expected to avoid 55% of unnecessary CSF and/or PET scans and reduce economic cost by 40%. 
