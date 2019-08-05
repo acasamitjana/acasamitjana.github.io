@@ -34,7 +34,7 @@ for publication in publication_list:
 					break
 
 			if 'title' in row:
-				title = '<b>[' + row.split('title: ')[1].split('\n')[0] + '](https://acasamitjana.github.io/personal-webpage-jekyll/publications' + publication.split('.')[0] + ')'
+				title = '<b>[' + row.split('title: ')[1].split('\n')[0] + '](https://acasamitjana.github.io/personal-webpage-jekyll/publications/' + publication.split('.')[0] + ')'
 				title += '</b>\n'
 			elif 'type' in row:
 				publication_type = row.split('type: ')[1].split('\n')[0]
