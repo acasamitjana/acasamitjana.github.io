@@ -8,8 +8,9 @@ output_file = join(dirname(os.getcwd()),'_pages', 'publications.md')
 
 header = '---\n'
 header += 'title: \" Publications\"\n'
+header += 'layout: archive\n'
 header += 'permalink: publications/\n'
-header += 'author_profile: true\n '
+header += 'author_profile: true\n'
 header += '---\n'
 
 journal_to_write = ''
@@ -21,35 +22,51 @@ abstracts_to_write = ''
 for publication in publication_list:
 	print(join(publications_dir,publication))
 	with open(join(publications_dir,publication), 'r') as f:
+		title = ''
+		authors = ''
+		venue = ''
+		date = ''
+		count = 0
 		for row in f.readlines():
+			if '---' in row:
+				count += 1
+				if count == 2:
+					break
+
 			if 'title' in row:
 				title = '<b>[' + row.split('title: ')[1].split('\n')[0] + '](https://acasamitjana.github.io/personal-webpage-jekyll/' + publication + ')'
 				title += '</b>\n'
 			elif 'type' in row:
 				publication_type = row.split('type: ')[1].split('\n')[0]
-				print(publication_type)
 			elif 'venue' in row:
 				venue = '<i>' + row.split('venue: ')[1].split('\n')[0] + '</i>'
 				venue += '\n'
 			elif 'authors' in row:
 				authors = row.split('authors: ')[1].split('\n')[0]
-				authors += '\n'
+				authors += ', '
+			elif 'date' in row:
+				print(row)
+				date = row.split('date: ')[1].split('-')[0] + '.'
+				date += '\n'
+
 
 	if publication_type == 'journal':
-		journal_to_write += title + authors + venue 
+		journal_to_write += title + authors + venue + date
 		journal_to_write += '\n\n'
 	elif publication_type == 'conference':
-		conferences_to_write += title + authors + venue 
+		conferences_to_write += title + authors + venue + date
 		conferences_to_write += '\n\n'
 	elif publication_type == 'workshop':
-		workshops_to_write += title + authors + venue 
+		workshops_to_write += title + authors + venue + date
 		workshops_to_write += '\n\n'
 	elif publication_type == 'bookchapter':
-		bookchapters_to_write += title + authors + venue 
+		bookchapters_to_write += title + authors + venue + date
 		journal_to_write += '\n\n'
 	elif publication_type == 'abstract':
-		abstracts_to_write += title + authors + venue
+		abstracts_to_write += title + authors + venue + date
 		abstracts_to_write += '\n\n'
+	else:
+		raise ValueError('Specify a valid #type# of publication')
 
 
 with open(output_file, 'w') as f:
