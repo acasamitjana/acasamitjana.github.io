@@ -16,6 +16,6 @@ We implemented a new neuroimaging analysis toolbox for modeling linear and nonli
 
 ## Associated publications
 
-<b>[Voxelwise nonlinear regression toolbox for neuroimage analysis; Application to aging and neurodegenerative disease modeling](https://acasamitjana.github.io/personal-webpage-jekyll/publications/2017-NIPS-Voxelwise)</b>
+<b>[Voxelwise nonlinear regression toolbox for neuroimage analysis; Application to aging and neurodegenerative disease modeling](https://acasamitjana.github.io/publications/2017-NIPS-Voxelwise)</b>
 Santi Puch, Asier Aduriz, <b>Adrià Casamitjana</b>, Verónica Vilaplana, Paula Petrone, Grégory Operto, Raffaele Cacciaglia, Stavros Skouras, Carles Falcón, José Luis Molinuevo, and Juan Domingo Gispert
 <i>NIPS Workshop Machine Learning for Health (ML4H)</i>, 2017.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://acasamitjana.github.io/personal-webpage-jekyll/images/avatar.jpg?raw=true" alt="Photo" style="width: 250px;"/> 
+  <img src="https://acasamitjana.github.io/images/avatar.jpg?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
 * I am a Ph.D. student in the [Image Processing Group (GPI)](https://imatge.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/), under the supervision of Dr. [Verónica Vilaplana](https://imatge.upc.edu/web/people/veronica-vilaplana). <br/>

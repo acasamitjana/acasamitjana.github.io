@@ -29,7 +29,7 @@ for resource in resources_list:
 					break
 
 			if 'title' in row:
-				dict_tmp['title'] += '<b>[' + row.split('title: ')[1].split('\n')[0] + '](https://acasamitjana.github.io/personal-webpage-jekyll/resources/' + resource.split('.')[0] + ')'
+				dict_tmp['title'] += '<b>[' + row.split('title: ')[1].split('\n')[0] + '](https://acasamitjana.github.io/resources/' + resource.split('.')[0] + ')'
 			elif 'type' in row:
 				resource_type = row.split('type: ')[1].split('\n')[0]
 			elif 'resourceurl' in row:
