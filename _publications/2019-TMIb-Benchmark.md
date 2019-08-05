@@ -2,7 +2,7 @@
 title: Benchmark on Automatic 6-month-old Infant Brain Segmentation Algorithms; The iSeg-2017 Challenge 
 collection: publications
 type: journal
-permalink: publication/2019-TMIb-Benchmark
+permalink: /publications/2019-TMIb-Benchmark
 date: 2019-02-27
 venue: IEEE Transactions in Medical Imaging (TMI)
 paperurl: https://ieeexplore.ieee.org/abstract/document/8654000

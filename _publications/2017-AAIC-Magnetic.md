@@ -2,7 +2,7 @@
 title: Magnetic Resonance Imaging and Machine learning make a valuable combined tool for the screening of preclinical AD.
 collection: publications
 type: abstract
-permalink: publication/2017-AAIC-Magnetic
+permalink: /publications/2017-AAIC-Magnetic
 date: 2017-07-01
 venue: Alzheimer\`s Association International Conference (AAIC)
 paperurl: https://aanddjournal.net/article/S1552-5260(17)33373-3/abstract

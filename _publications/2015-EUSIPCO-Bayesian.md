@@ -2,7 +2,7 @@
 title: Bayesian learning for time-varying linear prediction of speech
 collection: publications
 type: conference
-permalink: publication/2015-EUSIPCO-Bayesian
+permalink: /publications/2015-EUSIPCO-Bayesian
 date: 2015-08-31
 venue: European Signal Processing Conference (EUSIPCO)
 paperurl: https://ieeexplore.ieee.org/abstract/document/7362398/

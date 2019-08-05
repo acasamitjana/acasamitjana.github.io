@@ -2,7 +2,7 @@
 title: Voxelwise nonlinear regression toolbox for neuroimage analysis; Application to aging and neurodegenerative disease modeling
 collection: publications
 type: workshop
-permalink: publication/2017-NIPS-Voxelwise
+permalink: /publications/2017-NIPS-Voxelwise
 date: 2017-04-18
 venue: NIPS Workshop Machine Learning for Health (ML4H)
 paperurl: https://arxiv.org/abs/1612.00667

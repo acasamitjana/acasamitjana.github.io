@@ -2,7 +2,7 @@
 title: Projection to Latent Spaces disentangles specific cerebral morphometric patterns associated to aging and preclinical AD
 collection: publications
 type: abstract
-permalink: publication/2018-AAIC-Projection
+permalink: /publications/2018-AAIC-Projection
 date: 2018-07-01
 venue: Alzheimer\`s Association International Conference (AAIC)
 paperurl: https://www.alzheimersanddementia.com/article/S1552-5260(18)31283-4/abstract

@@ -2,7 +2,7 @@
 title: Shared latent structures between imaging features and biomarkers in early stages of Alzheimer\`s disease; a predictive study
 collection: publications
 type: journal
-permalink: publication/2019-JBHI-Shared
+permalink: /publications/2019-JBHI-Shared
 date: 2019-07-28
 venue: Journal of Biomedical and Health Informatics (J-BHI)
 authors: <b>Adrià Casamitjana</b>, Paula Petrone, José Luis Molinuevo, Juan Domingo Gispert and Verónica Vilaplana for the Alzheimer\`s Disease Neuroimaging Initiative

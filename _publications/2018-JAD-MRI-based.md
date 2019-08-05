@@ -2,7 +2,7 @@
 title: MRI-based screening of preclinical Alzheimer\`s disease for prevention clinical trials
 collection: publications
 type: journal
-permalink: publication/2018-JAD-MRI-based
+permalink: /publications/2018-JAD-MRI-based
 date: 2018-07-24
 venue: Journal of Alzheimer\`s Disease
 paperurl: 'https://content.iospress.com/articles/journal-of-alzheimers-disease/jad180299 '

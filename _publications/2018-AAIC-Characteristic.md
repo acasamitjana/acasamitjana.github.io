@@ -2,7 +2,7 @@
 title: Characteristic brain volumetric changes in the AD preclinical signature
 collection: publications
 type: abstract
-permalink: publication/2018-AAIC-Characteristic
+permalink: /publications/2018-AAIC-Characteristic
 date: 2018-07-01
 venue: Alzheimer\`s Association International Conference (AAIC) 
 paperurl: https://aanddjournal.net/article/S1552-5260(18)31909-5/abstract

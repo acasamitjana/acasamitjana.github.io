@@ -40,10 +40,10 @@ for publication in publication_list:
 				publication_type = row.split('type: ')[1].split('\n')[0]
 			elif 'venue' in row:
 				venue = '<i>' + row.split('venue: ')[1].split('\n')[0] + '</i>'
-				venue += '\n'
+				venue += ','
 			elif 'authors' in row:
 				authors = row.split('authors: ')[1].split('\n')[0]
-				authors += ', '
+				authors += '\n'
 			elif 'date' in row:
 				print(row)
 				date = row.split('date: ')[1].split('-')[0] + '.'

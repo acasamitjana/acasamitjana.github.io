@@ -2,7 +2,7 @@
 title: 3D Convolutional Neural Networks for Brain Tumor Segmentation; A Comparison of Multi-resolution Architectures
 collection: publications
 type: workshop
-permalink: publication/2016-MICCAI-3DCNN
+permalink: /publications/2016-MICCAI-3DCNN
 date: 2017-04-12
 venue: MICCAI BrainLes Workshop
 paperurl: https://link.springer.com/chapter/10.1007/978-3-319-55524-9_15

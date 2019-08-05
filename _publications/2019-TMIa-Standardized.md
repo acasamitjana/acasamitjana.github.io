@@ -2,7 +2,7 @@
 title: Standardized Assessment of Automatic Segmentation of White Matter Hyperintensities; Results of the WMH Segmentation Challenge
 collection: publications
 type: journal
-permalink: publication/2019-TMIa-Standardized
+permalink: /publications/2019-TMIa-Standardized
 date: 2019-03-19
 venue: IEEE Transaction in Medical Imaging (TMI)
 paperurl: https://ieeexplore.ieee.org/abstract/document/8669968

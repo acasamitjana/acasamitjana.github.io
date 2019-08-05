@@ -2,7 +2,7 @@
 title: Prediction of amyloid pathology in cognitively unimpaired individuals using voxelwise analysis of longitudinal structural brain MRI 
 collection: publications
 type: journal
-permalink: publication/2019-ART-Prediction
+permalink: /publications/2019-ART-Prediction
 date: 2019-07-23
 venue: Alzheimer’s\`s Research and Therapy
 authors: Paula M. Petrone\*, <b>Adrià Casamitjana</b>\*, Carles Falcón, Miquel Artigues, Grégory Operto, Raffaele Cacciaglia, José Luis Molinuevo, Verónica Vilaplana, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative
