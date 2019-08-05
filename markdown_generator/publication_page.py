@@ -37,14 +37,19 @@ for publication in publication_list:
 
 	if publication_type == 'journal':
 		journal_to_write += title + authors + venue 
+		journal_to_write += '\n\n'
 	elif publication_type == 'conference':
 		conferences_to_write += title + authors + venue 
+		conferences_to_write += '\n\n'
 	elif publication_type == 'workshop':
 		workshops_to_write += title + authors + venue 
+		workshops_to_write += '\n\n'
 	elif publication_type == 'bookchapter':
 		bookchapters_to_write += title + authors + venue 
+		journal_to_write += '\n\n'
 	elif publication_type == 'abstract':
-		abstracts_to_write += title + authors + venue 
+		abstracts_to_write += title + authors + venue
+		abstracts_to_write += '\n\n'
 
 
 with open(output_file, 'w') as f:
