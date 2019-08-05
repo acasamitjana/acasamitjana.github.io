@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrià Casamitjana"
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   bio              : ""
   location         : "Barcelona, Spain"
   employer         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  curriculum vitae : 
 
 
 # Reading Files

@@ -1,16 +1,20 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## Journal and Conferences
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[MRI-based screening of preclinical Alzheimer’s disease for prevention clinical trials](https://acasamitjana.github.io/personal-webpage-jekyll/publication/2018-JAD-MRI-based)</b> <br> 
+<b>Adrià Casamitjana</b>, Paula Petrone, Alan Tucholka, Carles Falcón, Stavros Skouras, José Luis Molinuevo, Verónica Vilapalana, Juan Domingo Gispert and for the Alzheimers Disease Neuroimaging Initiative
+<i>Journal of Alzheimers Disease </i>.
+
+
+## Abstracts
+
+
+## Workshops
+
+
