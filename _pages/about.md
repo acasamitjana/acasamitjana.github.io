@@ -18,6 +18,12 @@ redirect_from:
 
 # Recent News
 ------
+* April 1, 2020. Pre-print of our recent work "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" available at arXiv. 
+  - Code: https://github.com/acasamitjana/3dhirest
+  - Data:https://openneuro.org/datasets/ds003590
+* November, 2020. Checkout *DeepReg*, an open-source learning-based registration framework in tensorflow. Well documented, wildly tested and with demos to get started. Honoured to be part of the core team. 
+  - Code in: https://github.com/DeepRegNet/DeepReg
+* October, 2020. MICCAI Conference: coauthor of "3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology" (Tredgigo, et al.) https://arxiv.org/abs/2103.13578
 * June 30, 2020. Paper accepted in *Scientific Reports*: "A multimodal computational pipeline for 3D histology of the human brain" (Mancini et al.)
 * June 2, 2020. Paper accepted in *Frontiers in Neurology*: "Projection to Latent Spaces disentangles pathological effects on brain morphology in the asymptomatic phase of Alzheimer’s disease". (Casamitjana et al.)
 * February, 2020. Paper accepted in *Neuroinformatics*: "NeAT: a nonlinear analysis toolbox for neuroimaging" (Casamitjana et al.). The code is publicly available through this webpage: https://imatge-upc.github.io/neat-tool/
