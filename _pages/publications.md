@@ -9,6 +9,16 @@ author_profile: true
 
 ## Journal papers
 
+#### 2020
+<b>[A multimodal computational pipeline for 3D histology of the human brain](https://acasamitjana.github.io/publications/2020-SciRep-AMultimodal)</b>
+Matteo Mancini, <b>Adrià Casamitjana</b>, Loic Peter, Eleanor Robinson, ShaunaCrampsie, David L. Thomas, Janice L. Holton, Zane Jaunmuktane, Juan EugenioIglesias
+<i>Scientific Reports</i>, 2020.
+
+<b>[NeAT: a nonlinear analysis toolbox for neuroimaging](https://acasamitjana.github.io/publications/2020-Neuroinformatics-NeAT)</b>
+<b>Adrià Casamitjana</b>, Verónica Vilaplana, Santi Puch, Asier Aduriz, Carlos López, Grégory Operto, Raffaele Cacciaglia, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative
+<i>Neuroinformatics</i>, 2020.
+
+#### 2019
 <b>[Shared latent structures between imaging features and biomarkers in early stages of Alzheimer\`s disease; a predictive study](https://acasamitjana.github.io/publications/2019-JBHI-Shared)</b>
 <b>Adrià Casamitjana</b>, Paula Petrone, José Luis Molinuevo, Juan Domingo Gispert and Verónica Vilaplana for the Alzheimer\`s Disease Neuroimaging Initiative
 <i>Journal of Biomedical and Health Informatics (J-BHI)</i>, 2019.
@@ -37,6 +47,9 @@ Li Wang, ..., <b>Adrià Casamitjana</b>, ... and Dinggang Shen
 
 
 ## Conference papers
+<b>[3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology](https://acasamitjana.github.io/publications/2020-MICCAI-3DReconstruction)</b>
+Henry F. J. Tregidgo, <b>Adrià Casamitjana</b>, Caitlin S. Latimer, Mitchell D. Kilgore, Eleanor Robinson, Emily Blackburn, Koen Van Leemput, Bruce Fischl, Adrian V. Dalca, Christine L. Mac Donald, C. Dirk Keene, Juan Eugenio Iglesias
+<i>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</i>, 2020.
 
 <b>[Bayesian learning for time-varying linear prediction of speech](https://acasamitjana.github.io/publications/2015-EUSIPCO-Bayesian)</b>
 <b>Adrià Casamitjana</b>, Martin Sundin, Prasanta Ghosh, Saikat Chatterjee
