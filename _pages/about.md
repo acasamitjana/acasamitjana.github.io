@@ -18,7 +18,7 @@ redirect_from:
 
 # Recent News
 ------
-* April 1, 2020. Pre-print of our recent work "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" available at arXiv. 
+* April 1, 2021. Pre-print of our recent work "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" available at arXiv. 
   - Code: https://github.com/acasamitjana/3dhirest
   - Data:https://openneuro.org/datasets/ds003590
 * November, 2020. Checkout *DeepReg*, an open-source learning-based registration framework in tensorflow. Well documented, wildly tested and with demos to get started. Honoured to be part of the core team. 
