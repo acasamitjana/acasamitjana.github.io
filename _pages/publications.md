@@ -8,10 +8,13 @@ author_profile: true
 
 
 ## Journal papers
+#### 2021
+<b>[Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas](https://arxiv.org/pdf/2104.14873.pdf)</b> <b>Adrià Casamitjana</b>, Marco Lorenzi, Sebastiano Ferraris, Loc Peter, Marc Modat, Allison Stevens, Bruce Fischl, Tom Vercauteren, Juan Eugenio Iglesias
+<i>Medical Image Analysis</i>, 2021.
 
 #### 2020
 <b>[A multimodal computational pipeline for 3D histology of the human brain](https://acasamitjana.github.io/publications/2020-SciRep-AMultimodal)</b>
-Matteo Mancini, <b>Adrià Casamitjana</b>, Loic Peter, Eleanor Robinson, ShaunaCrampsie, David L. Thomas, Janice L. Holton, Zane Jaunmuktane, Juan EugenioIglesias
+Matteo Mancini, <b>Adrià Casamitjana</b>, Loic Peter, Eleanor Robinson, ShaunaCrampsie, David L. Thomas, Janice L. Holton, Zane Jaunmuktane, Juan Eugenio Iglesias
 <i>Scientific Reports</i>, 2020.
 
 <b>[NeAT: a nonlinear analysis toolbox for neuroimaging](https://acasamitjana.github.io/publications/2020-Neuroinformatics-NeAT)</b>
@@ -59,6 +62,10 @@ Henry F. J. Tregidgo, <b>Adrià Casamitjana</b>, Caitlin S. Latimer, Mitchell D.
 
 
 ## Workshop papers
+<b>[Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images](https://arxiv.org/pdf/2107.14449.pdf)</b>
+<b>Adrià Casamitjana</b>, Matteo Mancini, Juan Eugenio Iglesias
+<i>International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI)</i>, 2021.
+<b> Best paper award! </b>
 
 <b>[Voxelwise nonlinear regression toolbox for neuroimage analysis; Application to aging and neurodegenerative disease modeling](https://acasamitjana.github.io/publications/2017-NIPS-Voxelwise)</b>
 Santi Puch, Asier Aduriz, <b>Adrià Casamitjana</b>, Verónica Vilaplana, Paula Petrone, Grégory Operto, Raffaele Cacciaglia, Stavros Skouras, Carles Falcón, José Luis Molinuevo, and Juan Domingo Gispert
