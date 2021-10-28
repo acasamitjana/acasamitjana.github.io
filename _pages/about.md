@@ -18,9 +18,12 @@ redirect_from:
 
 # Recent News
 ------
-* April 1, 2021. Pre-print of our recent work "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" available at arXiv. 
+* October, 2021. Our paper "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" has been accepted in Medical Image Analysis. 
+  - Paper: https://arxiv.org/pdf/2104.14873.pdf
   - Code: https://github.com/acasamitjana/3dhirest
-  - Data:https://openneuro.org/datasets/ds003590
+  - Data: https://openneuro.org/datasets/ds003590
+  - Twitter: https://twitter.com/therelaxationt1/status/1453615376365928449
+* October, 2021. Best paper award in SASHIMI, a MICCAI satellite event for our paper "Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images". Paper: https://arxiv.org/pdf/2107.14449.pdf
 * November, 2020. Checkout *DeepReg*, an open-source learning-based registration framework in tensorflow. Well documented, wildly tested and with demos to get started. Honoured to be part of the core team. 
   - Code in: https://github.com/DeepRegNet/DeepReg
 * October, 2020. MICCAI Conference: coauthor of "3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology" (Tredgigo, et al.) https://arxiv.org/abs/2103.13578
