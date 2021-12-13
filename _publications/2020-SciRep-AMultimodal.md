@@ -3,7 +3,7 @@ title: A multimodal computational pipeline for 3D histology of the human brain
 collection: publications
 type: journal
 permalink: /publications/2020-SciRep-AMultimodal
-date: 2020 - 03 - 24
+date: 2020-03-24
 venue: Scientific reports - Nature Publishing Group
 paperurl: 'https://www.nature.com/articles/s41598-020-69163-z '
 authors: <b>Adrià Casamitjana</b>, Verónica Vilaplana, Santi Puch, Asier Aduriz, Carlos López, Grégory Operto, Raffaele Cacciaglia, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert
