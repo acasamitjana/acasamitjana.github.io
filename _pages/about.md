@@ -11,13 +11,20 @@ redirect_from:
   <img src="https://acasamitjana.github.io/images/avatar.jpg?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
-* I am a post-doc in [Center for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College of London](https://www.ucl.ac.uk/), working with Dr. [Juan Eugenio Iglesias](https://sites.google.com/site/jeiglesias/) in developing next generation tools for neuroimage analysis. <br/>
-[[Curriculum Vitae]( https://acasamitjana.github.io/personal-webpage-jekyll/files/cv.pdf)], [[Google Scholar](https://scholar.google.es/citations?user=phHLLH0AAAAJ)]
-* My main research intests include brain MRI segmentation, statistical learning for multimodal data and bayesian modeling. Over the course of my PhD I have been developing modeling tools to study Alzheimer's diesease (AD) using MRI, with special focus in early AD stages and its application to clinical trials.
-* I did my PhD on the study of early stages of AD using machine learning and MRI and its application to clinical trials. I worked under the supervision of Dr. [Verónica Vilaplana](https://imatge.upc.edu/web/people/veronica-vilaplana) in the [Image Processing Group (GPI)](https://imatge.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/). During my PhD, I collaborated with the BarcelonaBeta Brain Research Centre (BBRC) and I visited the Centre for Medical Image Computing (CMIC) at University College of London working with Dr. Andre Altman.
+* I am a post-doc in the [BCN-AIM](https://www.bcn-aim.org/) and [BIG](https://www.ub.edu/portal/web/dp-biomedicalsciences/group-sala) groups from Universitat de Barcelona as a recipient of a Margarita Salas fellowship. We ware working in image-synthesis for complete longitudinal and multi-modal datasets and exploring new trajectory based disease progression models. My main research intests include brain MRI segmentation, statistical learning for multimodal data and bayesian modeling.
+
+
+* Previously, I was a post-doc in [Center for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College of London](https://www.ucl.ac.uk/), working with Dr. [Juan Eugenio Iglesias](https://sites.google.com/site/jeiglesias/) in developing next generation tools. I pursued my PhD in the [Image Processing Group (GPI)](https://imatge.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/) under the supervision of Dr. [Verónica Vilaplana](https://imatge.upc.edu/web/people/veronica-vilaplana). We collaborated with the BarcelonaBeta Brain Research Centre ([BBRC](https://www.barcelonabeta.org/)) on developing models of early stages of AD using machine learning and MRI and its application to clinical trials. 
+
+<b> Curriculum vitae: </b> https://acasamitjana.github.io/personal-webpage-jekyll/files/cv.pdf  <br>
+<b> Google Scholar: </b> https://scholar.google.es/citations?user=phHLLH0AAAAJ <br>
+<b>  Twitter account: </b> https://twitter.com/therelaxationt1
+
+
 
 # Recent News
 ------
+* March, 2022. Moved from Center of Medical Image Computing (UCL) to Universitat de Barcelona thanks to the "Margartia Salas fellowship". Joint collaboration between Barcelona Artificial Intelligence in Medicine group (BCN-AIM) and Biomedical Imaging Group (BIG), where we will use image-synthesis to expand longitudinal and multi-modal datasets.
 * October, 2021. Our paper "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" has been accepted in Medical Image Analysis. 
   - Paper: https://arxiv.org/pdf/2104.14873.pdf
   - Code: https://github.com/acasamitjana/3dhirest
