@@ -5,7 +5,7 @@ type: journal
 permalink: /publications/2021-MedIA-Robust
 date: 2021/4/30
 venue: Medical Image Analysis
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841521003108'
+paperurl: ' https://www.sciencedirect.com/science/article/pii/S1361841521003108 '
 authors: <b>Adrià Casamitjana</b>, Marco Lorenzi, Sebastiano Ferraris, Loc Peter, Marc Modat, Allison Stevens, Bruce Fischl, Tom Vercauteren, Juan Eugenio Iglesias
 pdflink: https://arxiv.org/pdf/2104.14873.pdf
 citationlink: https://scholar.google.com/scholar?oi=bibs&hl=ca&cluster=6938907588736391227
