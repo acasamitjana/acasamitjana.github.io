@@ -1,5 +1,5 @@
 ---
-title: NeAT: a nonlinear analysis toolbox for neuroimaging
+title: NeAT. A nonlinear analysis toolbox for neuroimaging
 collection: publications
 type: journal
 permalink: /publications/2020-Neuroinformatics-NeAT
