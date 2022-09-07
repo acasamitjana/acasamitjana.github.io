@@ -24,14 +24,15 @@ redirect_from:
 
 # Recent News
 ------
+* September, 2022. New manuscript online! Our paper <b>"High-resolution atlasing and segmentation of the subcortex: review and perspective on challenges and opportunities created by machine learning"</b> has been accepted in Neuroimage (Special Issue: Terra incognita: diving into the human subcortex). We review the literature on subcortical atlases and segmentation methods and discuss challenges and opportunities of using machine learning for in vivo segmentation of MRI. Hope you enjoy! Link: https://www.sciencedirect.com/science/article/pii/S1053811922007315
 * March, 2022. Moved from Center of Medical Image Computing (UCL) to Universitat de Barcelona thanks to the "Margartia Salas fellowship". Joint collaboration between Barcelona Artificial Intelligence in Medicine group (BCN-AIM) and Biomedical Imaging Group (BIG), where we will use image-synthesis to expand longitudinal and multi-modal datasets.
-* October, 2021. Our paper "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas" has been accepted in Medical Image Analysis. 
+* October, 2021. Our paper <b>"Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas"</b> has been accepted in Medical Image Analysis. 
   - Paper: https://arxiv.org/pdf/2104.14873.pdf
   - Code: https://github.com/acasamitjana/3dhirest
   - Data: https://openneuro.org/datasets/ds003590
   - Twitter: https://twitter.com/therelaxationt1/status/1453615376365928449
-* October, 2021. Best paper award in SASHIMI, a MICCAI satellite event for our paper "Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images". Paper: https://arxiv.org/pdf/2107.14449.pdf
-* November, 2020. Checkout *DeepReg*, an open-source learning-based registration framework in tensorflow. Well documented, wildly tested and with demos to get started. Honoured to be part of the core team. 
+* October, 2021. Best paper award in SASHIMI, a MICCAI satellite event for our paper <b>"Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images"</b>. Paper: https://arxiv.org/pdf/2107.14449.pdf
+* November, 2020. Checkout <b>DeepReg</b>, an open-source learning-based registration framework in tensorflow. Well documented, wildly tested and with demos to get started. Honoured to be part of the core team. 
   - Code in: https://github.com/DeepRegNet/DeepReg
 * October, 2020. MICCAI Conference: coauthor of "3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology" (Tredgigo, et al.) https://arxiv.org/abs/2103.13578
 * June 30, 2020. Paper accepted in *Scientific Reports*: "A multimodal computational pipeline for 3D histology of the human brain" (Mancini et al.)
