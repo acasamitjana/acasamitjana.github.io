@@ -3,7 +3,7 @@ title: NeAT. A nonlinear analysis toolbox for neuroimaging
 collection: publications
 type: journal
 permalink: /publications/2020-Neuroinformatics-NeAT
-date: 2020 - 03 - 24
+date: 2020-3-24
 venue: Neuroinformatics
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s12021-020-09456-w.pdf '
 authors: <b>Adrià Casamitjana</b>, Verónica Vilaplana, Santi Puch, Asier Aduriz, Carlos López, Grégory Operto, Raffaele Cacciaglia, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert
