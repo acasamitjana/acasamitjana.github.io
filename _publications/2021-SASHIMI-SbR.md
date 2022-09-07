@@ -1,5 +1,5 @@
 ---
-title: Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images
+title: Synth-by-Reg (SbR). Contrastive learning for synthesis-based registration of paired images
 collection: publications
 type: conference
 permalink: /publications/2021-SASHIMI-SbR
