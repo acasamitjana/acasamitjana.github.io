@@ -2,9 +2,9 @@
 title: Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas
 collection: publications
 type: journal
-permalink: /publications/2021-SASHIMI-SbR
+permalink: /publications/2021-MedIA-Robust
 date: 2021/4/30
-venue: International Workshop on Simulation and Synthesis in Medical Imaging, SASHIMI (MICCAI-21 Satellite Event)
+venue: Medical Image Analysis
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841521003108'
 authors: <b>Adrià Casamitjana</b>, Marco Lorenzi, Sebastiano Ferraris, Loc Peter, Marc Modat, Allison Stevens, Bruce Fischl, Tom Vercauteren, Juan Eugenio Iglesias
 pdflink: https://arxiv.org/pdf/2104.14873.pdf
