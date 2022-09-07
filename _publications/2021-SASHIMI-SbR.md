@@ -3,7 +3,7 @@ title: Synth-by-Reg (SbR). Contrastive learning for synthesis-based registration
 collection: publications
 type: conference
 permalink: /publications/2021-SASHIMI-SbR
-date: 2021/9/27
+date: 2021-9-27
 venue: International Workshop on Simulation and Synthesis in Medical Imaging, SASHIMI (MICCAI-21 Satellite Event)
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-87592-3_5'
 authors: <b>Adrià Casamitjana</b>, Matteo Mancini, Juan Eugenio Iglesias
