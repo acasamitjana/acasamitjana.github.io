@@ -11,6 +11,8 @@ source "https://rubygems.org"
 
 gem "kramdown", ">= 2.3.1"
 
+gem "commonmarker", ">= 0.23.4"
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
