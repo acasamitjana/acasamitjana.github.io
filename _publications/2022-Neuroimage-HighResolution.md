@@ -1,5 +1,5 @@
 ---
-title: High-resolution atlasing and segmentation of the subcortex: review and perspective on challenges and opportunities created by machine learning
+title: High-resolution atlasing and segmentation of the subcortex. Review and perspective on challenges and opportunities created by machine learning
 collection: publications
 type: journal
 permalink: /publications/2022-Neuroimage-HighResolution
