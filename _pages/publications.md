@@ -8,42 +8,46 @@ author_profile: true
 
 
 ## Journal papers
+#### 2022
+<b>[High-resolution atlasing and segmentation of the subcortex: review and perspective on challenges and opportunities created by machine learning.](https://acasamitjana.github.io/publications/2022-Neuroimage-HighResolution)</b> <b>Adrià Casamitjana</b>, Juan Eugenio Iglesias.
+<i>Neuroimage</i>, 2022.
+
 #### 2021
-<b>[Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas](https://arxiv.org/pdf/2104.14873.pdf)</b> <b>Adrià Casamitjana</b>, Marco Lorenzi, Sebastiano Ferraris, Loc Peter, Marc Modat, Allison Stevens, Bruce Fischl, Tom Vercauteren, Juan Eugenio Iglesias
+<b>[Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas](https://acasamitjana.github.io/publications/2021-MedIA-Robust)</b> <b>Adrià Casamitjana</b>, Marco Lorenzi, Sebastiano Ferraris, Loc Peter, Marc Modat, Allison Stevens, Bruce Fischl, Tom Vercauteren, Juan Eugenio Iglesias.
 <i>Medical Image Analysis</i>, 2021.
 
 #### 2020
 <b>[A multimodal computational pipeline for 3D histology of the human brain](https://acasamitjana.github.io/publications/2020-SciRep-AMultimodal)</b>
-Matteo Mancini, <b>Adrià Casamitjana</b>, Loic Peter, Eleanor Robinson, ShaunaCrampsie, David L. Thomas, Janice L. Holton, Zane Jaunmuktane, Juan Eugenio Iglesias
+Matteo Mancini, <b>Adrià Casamitjana</b>, Loic Peter, Eleanor Robinson, ShaunaCrampsie, David L. Thomas, Janice L. Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.
 <i>Scientific Reports</i>, 2020.
 
 <b>[NeAT: a nonlinear analysis toolbox for neuroimaging](https://acasamitjana.github.io/publications/2020-Neuroinformatics-NeAT)</b>
-<b>Adrià Casamitjana</b>, Verónica Vilaplana, Santi Puch, Asier Aduriz, Carlos López, Grégory Operto, Raffaele Cacciaglia, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative
+<b>Adrià Casamitjana</b>, Verónica Vilaplana, Santi Puch, Asier Aduriz, Carlos López, Grégory Operto, Raffaele Cacciaglia, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative.
 <i>Neuroinformatics</i>, 2020.
 
 #### 2019
 <b>[Shared latent structures between imaging features and biomarkers in early stages of Alzheimer\`s disease; a predictive study](https://acasamitjana.github.io/publications/2019-JBHI-Shared)</b>
-<b>Adrià Casamitjana</b>, Paula Petrone, José Luis Molinuevo, Juan Domingo Gispert and Verónica Vilaplana for the Alzheimer\`s Disease Neuroimaging Initiative
+<b>Adrià Casamitjana</b>, Paula Petrone, José Luis Molinuevo, Juan Domingo Gispert and Verónica Vilaplana for the Alzheimer\`s Disease Neuroimaging Initiative.
 <i>Journal of Biomedical and Health Informatics (J-BHI)</i>, 2019.
 
 
 <b>[Prediction of amyloid pathology in cognitively unimpaired individuals using voxelwise analysis of longitudinal structural brain MRI ](https://acasamitjana.github.io/publications/2019-ART-Prediction)</b>
-Paula M. Petrone\*, <b>Adrià Casamitjana</b>\*, Carles Falcón, Miquel Artigues, Grégory Operto, Raffaele Cacciaglia, José Luis Molinuevo, Verónica Vilaplana, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative
+Paula M. Petrone\*, <b>Adrià Casamitjana</b>\*, Carles Falcón, Miquel Artigues, Grégory Operto, Raffaele Cacciaglia, José Luis Molinuevo, Verónica Vilaplana, Juan Domingo Gispert for the Alzheimer\`s Disease Neuroimaging Initiative.
 <i>Alzheimer’s\`s Research and Therapy</i>, 2019.
 
 
 <b>[Standardized Assessment of Automatic Segmentation of White Matter Hyperintensities; Results of the WMH Segmentation Challenge](https://acasamitjana.github.io/publications/2019-TMIa-Standardized)</b>
-Hugo J. Kuijf, ..., <b>Adrià Casamitjana</b>, ... and Geert Jan Biessels 
+Hugo J. Kuijf, ..., <b>Adrià Casamitjana</b>, ... and Geert Jan Biessels.
 <i>IEEE Transaction in Medical Imaging (TMI)</i>, 2019.
 
 
 <b>[Benchmark on Automatic 6-month-old Infant Brain Segmentation Algorithms; The iSeg-2017 Challenge ](https://acasamitjana.github.io/publications/2019-TMIb-Benchmark)</b>
-Li Wang, ..., <b>Adrià Casamitjana</b>, ... and Dinggang Shen
+Li Wang, ..., <b>Adrià Casamitjana</b>, ... and Dinggang Shen.
 <i>IEEE Transactions in Medical Imaging (TMI)</i>, 2019.
 
 
 <b>[MRI-based screening of preclinical Alzheimer\`s disease for prevention clinical trials](https://acasamitjana.github.io/publications/2018-JAD-MRI-based)</b>
-<b>Adrià Casamitjana</b>, Paula Petrone, Alan Tucholka, Carles Falcón, Stavros Skouras, José Luis Molinuevo, Verónica Vilapalana, Juan Domingo Gispert and for the Alzheimer\`s Disease Neuroimaging Initiative
+<b>Adrià Casamitjana</b>, Paula Petrone, Alan Tucholka, Carles Falcón, Stavros Skouras, José Luis Molinuevo, Verónica Vilapalana, Juan Domingo Gispert and for the Alzheimer\`s Disease Neuroimaging Initiative.
 <i>Journal of Alzheimer\`s Disease</i>, 2018.
 
 
@@ -51,18 +55,18 @@ Li Wang, ..., <b>Adrià Casamitjana</b>, ... and Dinggang Shen
 
 ## Conference papers
 <b>[3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology](https://acasamitjana.github.io/publications/2020-MICCAI-3DReconstruction)</b>
-Henry F. J. Tregidgo, <b>Adrià Casamitjana</b>, Caitlin S. Latimer, Mitchell D. Kilgore, Eleanor Robinson, Emily Blackburn, Koen Van Leemput, Bruce Fischl, Adrian V. Dalca, Christine L. Mac Donald, C. Dirk Keene, Juan Eugenio Iglesias
+Henry F. J. Tregidgo, <b>Adrià Casamitjana</b>, Caitlin S. Latimer, Mitchell D. Kilgore, Eleanor Robinson, Emily Blackburn, Koen Van Leemput, Bruce Fischl, Adrian V. Dalca, Christine L. Mac Donald, C. Dirk Keene, Juan Eugenio Iglesias.
 <i>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</i>, 2020.
 
 <b>[Bayesian learning for time-varying linear prediction of speech](https://acasamitjana.github.io/publications/2015-EUSIPCO-Bayesian)</b>
-<b>Adrià Casamitjana</b>, Martin Sundin, Prasanta Ghosh, Saikat Chatterjee
+<b>Adrià Casamitjana</b>, Martin Sundin, Prasanta Ghosh, Saikat Chatterjee.
 <i>European Signal Processing Conference (EUSIPCO)</i>, 2015.
 
 
 
 
 ## Workshop papers
-<b>[Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images](https://arxiv.org/pdf/2107.14449.pdf)</b>
+<b>[Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images](https://acasamitjana.github.io/publications/2021-SASHIMI-SbR)</b>
 <b>Adrià Casamitjana</b>, Matteo Mancini, Juan Eugenio Iglesias
 <i>International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI)</i>, 2021.
 <b> Best paper award! </b>
