@@ -1,18 +1,5 @@
 ---
-title: Benchmark on Automatic 6-month-old Infant Brain Segmentation Algorithms; The iSeg-2017 Challenge 
-collection: publications
-type: journal
-permalink: /publications/2019-TMIb-Benchmark
-date: 2019-02-27
-venue: IEEE Transactions in Medical Imaging (TMI)
-paperurl: https://ieeexplore.ieee.org/abstract/document/8654000
-authors: Li Wang, ..., <b>Adrià Casamitjana</b>, ... and Dinggang Shen
-pdflink: https://drive.google.com/file/d/1JHuA8-huLSiROSpNYywy1HSA53-bj7Gm/view
-citationlink: https://scholar.googleusercontent.com/scholar.bib?q=info:rLU0s070ecsJ:scholar.google.com/&output=citation&scisdr=CgXQVhIyEO27_JMPh8U:AAGBfm0AAAAAXUgKn8UyyqGRkywXsyR7YrgKc-di8kXI&scisig=AAGBfm0AAAAAXUgKn3kePSp6CTPCJxvPSfEEp-Wlx2mw&scisf=4&ct=citation&cd=-1&hl=ca&scfhb=1
----
-
----
-title: Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas
+title: Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction. Application to the Allen human brain atlas
 collection: publications
 type: journal
 permalink: /publications/2021-MedIA-Robust
