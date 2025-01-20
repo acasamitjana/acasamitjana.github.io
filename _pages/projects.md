@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Current projects
+## Current projects
 
 **Longitudinal biomarkers on brain MRI images.**
 - P.I.: Dr. Adrià Casamitjana
@@ -31,7 +31,7 @@ author_profile: true
 - Reference: PID2023-150592OB-I00
 - Description: -
 
-# Past projects
+## Past projects
 
 **Disentangling heterogeneity in neurodegenerative diseases using large and small neuroimaging datasets: a multimodal and longitudinal perspective**
 - P.I.: Dr. Adrià Casamitjana
