@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and supervising activities"
 permalink: /teaching/
 author_profile: true
 ---
