@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
+-----
+
+## Teaching
 
 **[2024-curr]** _Medical image segmentation_. Master in Medical Image Applications, MAIA (Inter-university, coordinated by UdG). Role: teaching assistant. 6 credits.
 
@@ -28,21 +30,22 @@ author_profile: true
 **[2015]** _Speech signal processing_. MSc. in signal processing (KTH). Role: teaching assistant. 3 credits.
 
 
-# Supervised Master thesis
+## Supervised Master thesis
 
-[2024] Clara Lisazo. _Brain age estimation from MRI images_
+**[2024]** Clara Lisazo. _Brain age estimation from MRI images_
 
-[2023] Marc Salat. _Organization of large scale neuroimaging datasets following the BIDS protocol: an application to the ADNI study_
+**[2023]** Marc Salat. _Organization of large scale neuroimaging datasets following the BIDS protocol: an application to the ADNI study_
 
-[2018] Clara Bonnín. _Brain lesion segmentation using Convolutional Neuronal Networks_
+**[2018]** Clara Bonnín. _Brain lesion segmentation using Convolutional Neuronal Networks_
 
-# Supervised Bachelor thesis
 
-[2023] Lluís Pellicer. _Automatic segmentation of regions of interest in vaginal brachytherapy_
+## Supervised Bachelor thesis
 
-[2017] David Rodríguez. _Extracción de cráneo en imágenes de resonancia magnética del cerebro utilizando una red neuronal convolucional 3D_
+**[2023]** Lluís Pellicer. _Automatic segmentation of regions of interest in vaginal brachytherapy_
 
-[2016] Marcel Catà. _Feature selection methods for predicting pre-clinical stage in Alzheirmer's Disease_
+**[2017]** David Rodríguez. _Extracción de cráneo en imágenes de resonancia magnética del cerebro utilizando una red neuronal convolucional 3D_
+
+**[2016]** Marcel Catà. _Feature selection methods for predicting pre-clinical stage in Alzheirmer's Disease_
 
 <!--- 
 {% include base_path %}
