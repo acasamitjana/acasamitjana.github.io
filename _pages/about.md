@@ -15,10 +15,7 @@ redirect_from:
 
 * Previously, I was a visiting researcher at [BIG](https://www.ub.edu/portal/web/dp-biomedicalsciences/group-sala) (2023), [BCN-AIM](https://www.bcn-aim.org/) (2022) groups from UB and a post-doc researcher at [Center for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) from [University College of London](https://www.ucl.ac.uk/) (2019-2022), working with Dr. [Juan Eugenio Iglesias](https://sites.google.com/site/jeiglesias/) in developing next generation image analysis tools. I pursued my PhD in the [Image Processing Group (GPI)](https://imatge.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/) under the supervision of Dr. [Verónica Vilaplana](https://imatge.upc.edu/web/people/veronica-vilaplana). We collaborated with the BarcelonaBeta Brain Research Centre ([BBRC](https://www.barcelonabeta.org/)) on developing models of early stages of AD using machine learning and MRI and its application to clinical trials. 
 
-<b> Curriculum vitae: </b> https://acasamitjana.github.io/personal-webpage-jekyll/files/cv.pdf  <br>
-<b> Google Scholar: </b> https://scholar.google.es/citations?user=phHLLH0AAAAJ <br>
-<b>  Twitter account: </b> https://twitter.com/therelaxationt1
-
+<b> [Curriculum vitae](https://acasamitjana.github.io/personal-webpage-jekyll/files/cv.pdf) </b>   <br>
 
 
 # Recent News
