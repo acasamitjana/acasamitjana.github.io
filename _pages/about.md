@@ -23,6 +23,9 @@ redirect_from:
 
 # Recent News
 ------
+* June 2025. New paper alert! [USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI](https://www.sciencedirect.com/science/article/pii/S1361841525002099) is now available in Medical Image Analysis. If you are interested in longitudinal trajectories of brain biomarkers, check it out!
+* October 2024. Part of the organizing committe of the SASHIMI workshop in Marrakesh. It was great to see many great publications on brain image synthesis and simulation.
+* May 2024. Attended to ISBI congress in Athens, where I presented two works: (1) Multimodal brain registration, involving structural and functional MRI and PET; (2) MRI-DaTSCAN registration and its implications to Parkinson's disease.
 * January 2024. New position as a post-doc researcher at ViCOROB institute in my hometown, Girona. Really looking forward to it!
 * March, 2023. Visiting researcher at BIG laboratory within the Biophysics department of Universitat de Barcelona. Willing to work with Dr. Roser Sala-Llonch on multimodal image processing methods.
 * September, 2022. New manuscript online! Our paper <b>"High-resolution atlasing and segmentation of the subcortex: review and perspective on challenges and opportunities created by machine learning"</b> has been accepted in Neuroimage (Special Issue: Terra incognita: diving into the human subcortex). We review the literature on subcortical atlases and segmentation methods and discuss challenges and opportunities of using machine learning for in vivo segmentation of MRI. Hope you enjoy! Link: https://www.sciencedirect.com/science/article/pii/S1053811922007315
