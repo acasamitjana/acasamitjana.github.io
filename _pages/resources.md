@@ -21,6 +21,10 @@ Main authors: Oula, Puonti, Juan Eugenio Iglesias; Collaborators: <b>Adrià Casa
 
 I collaborated in the implementation of the NextBrain segmentation toolWe implemented a new neuroimaging analysis toolbox for modeling linear and nonlinear effects overcoming the limitations of the standard neuroimaging processing tools that perform statistical inference based only on linear models. NeAT is a modular,  exible and user-friendly tool via command line interface that provides a range of statistical and machine learning non-linear methods for model estimation. Several metrics based on curve fitting and complexity are used for model inference. The toolbox includes a graphical user interface (GUI) for visualization of results.
 
+<b>[USLR: unbiased and smooth longitudinal registration tool](https://github.com/acasamitjana/USLR)) </b><br/>
+Main authors: <b>Adrià Casamitjana</b> <br/>
+
+Here we implemented a longitudinal registration toolbox that consists of three sequential steps: (1) SynthSeg segmentation followed by bias field correction; (2) subject-wise linear registration; (3) subject-wise non-linear registration. The output of this pipeline contains a subject specific template and nonlinear trajectories across time. These outputs are then used for downstream applications such as longitudinal segmentation.
 
 <b>[NeAT: A nonlinear neuroimaging analysis toolbox.](https://imatge-upc.github.io/neat-tool/)</b><br/>
 
