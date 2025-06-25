@@ -9,10 +9,14 @@ author_profile: true
 
 ## Journal papers
 
-#### 2024
-[1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. _Machine learning of dissection photographs and surface scanning for quantitative 3D neuropathology_ (2024). **eLife**. Vol:12. DOI: https://doi.org/10.7554/eLife.91398 [JCR: B, IF: 6.4, Q1(8/109)]. 
+#### 2025
+[1] **Adrià Casamitjana**, Roser Sala-Llonch, Karim Lekadir, Juan Eugenio Iglesias. [_USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI_](https://www.sciencedirect.com/science/article/pii/S1361841525002099) (2025) Medical Image Analysis, 75, 102265. DOI: [https://doi.org/10.1016/j.media.2021.102265](https://doi.org/10.1016/j.media.2025.103662) [JCR: CSIA, IF: 10.7, Q1(4/170)].
 
-[2] Karthik Gopinath, Andrew Hoopes, Daniel C Alexander, Steven E Arnold, Yael Balbastre, Benjamin Billot, Adrià Casamitjana, You Cheng, Russ Yue Zhi Chua, Brian L Edlow, Bruce Fischl, Harshvardhan Gazula, Malte Hoffmann, C Dirk Keene, Seunghoi Kim, W Taylor Kimberly, Sonia Laguna, Kathleen E Larson, Koen Van Leemput, Oula Puonti, Livia M Rodrigues, Matthew S Rosen, Henry FJ Tregidgo, Divya Varadarajan, Sean I Young, Adrian V Dalca, Juan Eugenio Iglesias. _Synthetic data in generalizable, learning-based neuroimaging_ (2024). **Imaging Neuroscience**. Link: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867
+#### 2024
+[1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. 
+[_Machine learning of dissection photographs and surface scanning for quantitative 3D neuropathology_](https://doi.org/10.7554/eLife.91398) (2024). __eLife__. Vol:12. DOI: https://doi.org/10.7554/eLife.91398 [JCR: B, IF: 6.4, Q1(8/109)]. 
+
+[2] Karthik Gopinath, Andrew Hoopes, Daniel C Alexander, Steven E Arnold, Yael Balbastre, Benjamin Billot, **Adrià Casamitjana**, You Cheng, Russ Yue Zhi Chua, Brian L Edlow, Bruce Fischl, Harshvardhan Gazula, Malte Hoffmann, C Dirk Keene, Seunghoi Kim, W Taylor Kimberly, Sonia Laguna, Kathleen E Larson, Koen Van Leemput, Oula Puonti, Livia M Rodrigues, Matthew S Rosen, Henry FJ Tregidgo, Divya Varadarajan, Sean I Young, Adrian V Dalca, Juan Eugenio Iglesias. _Synthetic data in generalizable, learning-based neuroimaging_ (2024). **Imaging Neuroscience**. Link: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867
 
 #### 2022
 [1] **Adrià Casamitjana**, Juan Eugenio Iglesias. _High-resolution atlasing and segmentation of the subcortex: Review and perspective on challenges and opportunities created by machine learning_ (2022). **Neuroimage**, 263, 119616. DOI: https://doi.org/10.1016/j.neuroimage.2022.119616 [JCR: N, IF: 5.7, Q1(1/14)].  
