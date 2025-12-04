@@ -10,7 +10,9 @@ author_profile: true
 ## Journal papers
 
 #### 2025
-[1] **Adrià Casamitjana**, Roser Sala-Llonch, Karim Lekadir, Juan Eugenio Iglesias. [_USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI_](https://www.sciencedirect.com/science/article/pii/S1361841525002099) (2025) __Medical Image Analysis__, 75, 102265. DOI: https://doi.org/10.1016/j.media.2025.103662 [JCR: CSIA, IF: 10.7, Q1(4/170)].
+[1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias [ A probabilistic histological atlas of the human brain for MRI segmentation_]([https://www.sciencedirect.com/science/article/pii/S1361841525002099](https://www.nature.com/articles/s41586-025-09708-2)) (2025) __Nature__, 1-8. DOI: [https://doi.org/10.1016/j.media.2025.103662](https://doi.org/10.1038/s41586-025-09708-2) [JCR: MS, IF: 48.5, Q1(2/135)].
+
+[2] **Adrià Casamitjana**, Roser Sala-Llonch, Karim Lekadir, Juan Eugenio Iglesias. [_USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI_](https://www.sciencedirect.com/science/article/pii/S1361841525002099) (2025) __Medical Image Analysis__, 75, 102265. DOI: https://doi.org/10.1016/j.media.2025.103662 [JCR: CSIA, IF: 10.7, Q1(4/170)].
 
 #### 2024
 [1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. 
