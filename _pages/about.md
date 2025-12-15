@@ -11,7 +11,7 @@ redirect_from:
   <img src="https://acasamitjana.github.io/images/avatar.jpg?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
-* I am a post-doc researcher in the [ViCOROB](https://www.bcn-aim.org/) research institute from Universitat de Girona (UdG) working on medical image analysis, mainly involved in brain modelling. My main interests are on using multimodal and longitudinal models to study normal aging and disease progression, merging different image modalities with non-imaging data.
+* I am a Ramon y Cajal researcher in the [ViCOROB](https://vicorob.udg.edu/) research institute from Universitat de Girona (UdG) working on medical image analysis, mainly involved in brain modelling. My main interests are on using multimodal and longitudinal models to study normal aging and disease progression, merging different image modalities with non-imaging data.
 
 * Previously, I was a visiting researcher at [BIG](https://www.ub.edu/portal/web/dp-biomedicalsciences/group-sala) (2023), [BCN-AIM](https://www.bcn-aim.org/) (2022) groups from UB and a post-doc researcher at [Center for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) from [University College of London](https://www.ucl.ac.uk/) (2019-2022), working with Dr. [Juan Eugenio Iglesias](https://sites.google.com/site/jeiglesias/) in developing next generation image analysis tools. I pursued my PhD in the [Image Processing Group (GPI)](https://imatge.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/) under the supervision of Dr. [Verónica Vilaplana](https://imatge.upc.edu/web/people/veronica-vilaplana). We collaborated with the BarcelonaBeta Brain Research Centre ([BBRC](https://www.barcelonabeta.org/)) on developing models of early stages of AD using machine learning and MRI and its application to clinical trials. 
 
@@ -20,6 +20,8 @@ redirect_from:
 
 # Recent News
 ------
+* January 2026. New position. I'm glad to share that I'll be starting the 5-year Ramon y Cajal fellowhip in the VICOROB institute. I will keep on working on sutyding the healthy and disease brain. Great things to come!
+* November 2025. New paper alert! Our NextBrain atlas has been published in Nature! [A probabilistic histological atlas of the human brain for MRI segmentation](https://www.nature.com/articles/s41586-025-09708-2). Please, check it out! You can find related in the resources tab.
 * June 2025. New paper alert! [USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI](https://www.sciencedirect.com/science/article/pii/S1361841525002099) is now available in Medical Image Analysis. If you are interested in longitudinal trajectories of brain biomarkers, check it out!
 * October 2024. Part of the organizing committe of the SASHIMI workshop in Marrakesh. It was great to see many great publications on brain image synthesis and simulation.
 * May 2024. Attended to ISBI congress in Athens, where I presented two works: (1) Multimodal brain registration, involving structural and functional MRI and PET; (2) MRI-DaTSCAN registration and its implications to Parkinson's disease.
