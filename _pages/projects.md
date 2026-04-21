@@ -7,6 +7,14 @@ author_profile: true
 
 ## Current projects
 
+**Ramón y cajal fellowship.**
+- P.I.: Dr. Adrià Casamitjana
+- Value: 257.200€
+- Role: Principal investigator
+- Funding agency: Ministerio de Ciencia, Innovación y Universidades
+- Reference: RYC2024-050753-I.
+- Description: -
+- 
 **Longitudinal biomarkers on brain MRI images.**
 - P.I.: Dr. Adrià Casamitjana
 - Value: 94.518€
