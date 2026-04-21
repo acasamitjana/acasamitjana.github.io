@@ -14,7 +14,7 @@ author_profile: true
 - Funding agency: Ministerio de Ciencia, Innovación y Universidades
 - Reference: RYC2024-050753-I.
 - Description: -
-- 
+
 **Longitudinal biomarkers on brain MRI images.**
 - P.I.: Dr. Adrià Casamitjana
 - Value: 94.518€
