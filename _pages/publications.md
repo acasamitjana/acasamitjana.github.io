@@ -9,14 +9,17 @@ author_profile: true
 
 ## Journal papers
 
-#### 2025
-[1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias [_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. DOI: https://doi.org/10.1038/s41586-025-09708-2 [JCR: MS, IF: 48.5, Q1(2/135)].
+#### 2026
+[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. [_Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_]([https://www.nature.com/articles/s41586-025-09708-2](https://www.sciencedirect.com/science/article/pii/S0010482526000776)) (2026) __Computers in Biology and Medicine__. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516) [JCR: CSIA, IF:6.3, Q1(2/177)].
 
-[2] **Adrià Casamitjana**, Roser Sala-Llonch, Karim Lekadir, Juan Eugenio Iglesias. [_USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI_](https://www.sciencedirect.com/science/article/pii/S1361841525002099) (2025) __Medical Image Analysis__, 75, 102265. DOI: https://doi.org/10.1016/j.media.2025.103662 [JCR: CSIA, IF: 10.7, Q1(4/170)].
+#### 2025
+[1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.[_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. DOI: https://doi.org/10.1038/s41586-025-09708-2 [JCR: MS, IF: 48.5, Q1(2/135)].
+
+[2] **Adrià Casamitjana**, Roser Sala-Llonch, Karim Lekadir, Juan Eugenio Iglesias. 
+[_USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI_](https://www.sciencedirect.com/science/article/pii/S1361841525002099) (2025) __Medical Image Analysis__, 75, 102265. DOI: https://doi.org/10.1016/j.media.2025.103662 [JCR: CSIA, IF: 10.7, Q1(4/170)].
 
 #### 2024
-[1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. 
-[_Machine learning of dissection photographs and surface scanning for quantitative 3D neuropathology_](https://doi.org/10.7554/eLife.91398) (2024). __eLife__. Vol:12. [JCR: B, IF: 6.4, Q1(8/109)]. 
+[1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. [_Machine learning of dissection photographs and surface scanning for quantitative 3D neuropathology_](https://doi.org/10.7554/eLife.91398) (2024). __eLife__. Vol:12. [JCR: B, IF: 6.4, Q1(8/109)]. 
 
 [2] Karthik Gopinath, Andrew Hoopes, Daniel C Alexander, Steven E Arnold, Yael Balbastre, Benjamin Billot, **Adrià Casamitjana**, You Cheng, Russ Yue Zhi Chua, Brian L Edlow, Bruce Fischl, Harshvardhan Gazula, Malte Hoffmann, C Dirk Keene, Seunghoi Kim, W Taylor Kimberly, Sonia Laguna, Kathleen E Larson, Koen Van Leemput, Oula Puonti, Livia M Rodrigues, Matthew S Rosen, Henry FJ Tregidgo, Divya Varadarajan, Sean I Young, Adrian V Dalca, Juan Eugenio Iglesias. [_Synthetic data in generalizable, learning-based neuroimaging_](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867) (2024). **Imaging Neuroscience**.
 
@@ -48,41 +51,6 @@ author_profile: true
 
 
 
-## Conference papers
-
-#### 2024
-[1] **Adrià Casamitjana**, Arnau Oliver, Xavier Lladóv. _Anatomically-aware automatic quantification of DaTSCAN images_ (2024) **IEEE International Symposium on Biomedical Imaging (ISBI)**, Athens (Greece). Poster presentation.
-
-[2] **Adria Casamitjana**, Juan Eugenio Iglesias, Raul Tudela, Aida Ninerola-Baizan, Roser Sala-Llonch. [_JUMP: A joint multimodal registration pipeline for neuroimaging with minimal preprocessing_](https://10.0.4.85/ISBI56570.2024.10635235) (2024) **IEEE International Symposium on Biomedical Imaging (ISBI)**, Athens (Greece). DOI: https://10.0.4.85/ISBI56570.2024.10635235. Poster presentation.
-
-[3] Vien Ngoc Dang, **Adrià Casamitjana**, Jerónimo Hernández-González, Karim Lekadir. [_Mitigating Overdiagnosis Bias in CNN-Based Alzheimer’s Disease Diagnosis for the Elderly_](https://doi.org/10.1007/978-3-031-72787-0_5) (2024) **Fairness of AI in Medical Imaging (FAIMI)**, Marrakesh (Morocco). DOI: https://doi.org/10.1007/978-3-031-72787-0_5. Oral presentation.
-
-#### 2023
-[1] Vien Ngoc Dang, **Adrià Casamitjana**, Martijn PA Starmans, Carlos Martín-Isla, Jerónimo Hernández-González, Karim Lekadir. [_Auditing Unfair Biases in CNN-Based Diagnosis of Alzheimer’s Disease_](https://doi.org/10.1007/978-3-031-45249-9_17) (2023) **Fairness of AI in Medical Imaging (FAIMI)**, Vancouver (Canada). DOI: https://doi.org/10.1007/978-3-031-45249-9_17. Oral presentation.
-
-#### 2021
-[1] Ana Lawry Aguila, **Adrià Casamitjana**, Marco Lorenzi, Sanjay Sisodiya, Andre Altmann. _Comparing classical and autoencoder multi-view methods for imaging genetics on a large-scale database_ (2015) **Organization of Human Brain Mapping (OHBM)**, Glasgow (United Kingdom). Poster presentation.
-
-#### 2020
-[1] **Adrià Casamitjana**, Matteo Mancini, Juan Eugenio Iglesias. [_Synth-by-reg (sbr): Contrastive learning for synthesis-based registration of paired images_](https://doi.org/10.1007/978-3-030-87592-3_5) (2020) **Simulation and Synthesis in Medical Imaging (SASHIMI)**, Strasbourg (France). DOI: https://doi.org/10.1007/978-3-030-87592-3_5. Oral presentation and best paper award (3000$)
-
-[2] Henry FJ Tregidgo, **Adrià Casamitjana**, Caitlin S Latimer, Mitchell D Kilgore, Eleanor Robinson, Emily Blackburn, Koen Van Leemput, Bruce Fischl, Adrian V Dalca, Christine L Mac Donald, C Dirk Keene, Juan Eugenio Iglesias. [_3D reconstruction and segmentation of dissection photographs for MRI-free neuropathology_](https://doi.org/10.1007/978-3-030-59722-1_20) (2020) **Medical Image Computing and Computed-Assisted Intervention (MICCAI)**, Strasbourg (France). DOI: https://doi.org/10.1007/978-3-030-59722-1_20. Oral presentation.
-
-#### 2018
-[1] **Adria Casamitjana**, Paula Petrone, Jose Luis Molinuevo, Juan Domingo Gispert, Veronica Vilaplana. [_Shared Latent Structures Between Imaging Features and Biomarkers in Early Stages of Alzheimer’s Disease_](https://doi.org/10.1007/978-3-319-75238-9_33) (2018) **International Workshop on PRedictive Intelligence In MEdicinee**, Granada (Spain). DOI: https://doi.org/10.1007/978-3-319-75238-9_33. Oral presentation.
-
-#### 2017
-[1] **Adrià Casamitjana**, Marcel Catà, Irina Sánchez, Marc Combalia, Verónica Vilaplana. [_Cascaded V-Net using ROI masks for brain tumor segmentation_](https://doi.org/10.1007/978-3-319-75238-9_33) (2017) **International MICCAI Brainlesion Workshop**, Quebec (Canada). DOI: https://doi.org/10.1007/978-3-319-75238-9_33. Poster presentation.
-
-#### 2016
-[1] Santi Puch, Asier Aduriz, **Adrià Casamitjana*, Veronica Vilaplana, Paula Petrone, Grégory Operto, Raffaele Cacciaglia, Stavros Skouras, Carles Falcon, José Luis Molinuevo, Juan Domingo Gispert. _Voxelwise nonlinear regression toolbox for neuroimage analysis: Application to aging and neurodegenerative disease modeling_ (2016) **ML4H Workshop in NeurIPS**, Barcelona (Spain). Poster presentation.
-
-[2] **Adrià Casamitjana**, Santi Puch, Asier Aduriz, Verónica Vilaplana. [_3D Convolutional Neural Networks for Brain Tumor Segmentation: A Comparison of Multi-resolution Architectures_](https://doi.org/10.1007/978-3-319-55524-9_15) (2016) **International Workshop on Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries**, Athens (Greece). DOI: https://doi.org/10.1007/978-3-319-55524-9_15. Oral presentation.
-
-#### 2015
-[1] **Adrià Casamitjana**, Martin Sundin, Prasanta Ghosh, Saikat Chatterjee. [_Bayesian learning for time-varying linear prediction of speech_](https://ieeexplore.ieee.org/document/7362398) (2015) **European Signal Processing Conference**, Nice (France). DOI: 10.1109/EUSIPCO.2015.7362398. Poster presentation.
-
-
 ## Medical abstracts
 
 #### 2019
@@ -97,3 +65,58 @@ author_profile: true
 [1] Paula Marcela Petrone, Verónica Vilaplana, **Adrià Casamitjana**, Dalila Sánchez Escobedo, Alan Tucholka, Raffaele Cacciaglia, Gregory Operto, Stavros Skouras, Carles Falcón, José Luis Molinuevo, Juan Domingo Gispert. [_Magnetic Resonance Imaging and machine learning make a valuable combined tool for the screening of preclinical AD_](https://doi.org/10.1016/j.jalz.2017.07.457) (2017) **Alzheimer's & Dementia: The Journal of the Alzheimer's Association**, vol 13, num.7, pp1245. DOI: https://doi.org/10.1016/j.jalz.2017.07.457. [JCR: CN, IF=17.127, Q1(3/204)]
 
 
+## Conferences
+
+#### 2026
+* **[ISBI 2026]** C. Lisazo, **A. Casamitjana**, A. Cartaya Lathulerie, A. Oliver, X.Lladó. "Enhancing brain age estimation with a transformer add-on incorporating a longitudinal consistency prior". IEEE International Symposium on Biomedical Imaging. London, UK. April 2026.
+ 
+* **[IABM 2026]** A.Cartaya Lathulerie, **A.Casamitjana**, A.Oliver, X.Lladó. "Volumetric-guided brain image synthesis with diffusion models". French Conference on Artificial Intelligence in Biomedical Imaging. Lyon, France. March 2026.
+
+#### 2025
+* **[MICCAI-BRATS-2025-1]** Agustin Cartaya Lathulerie, Valeriia Abramova, Micaela Rivas Díaz, Uma M. Lal-Trehan Estrada, Cansu Yalcin, Rachika E. Hamadache, Clara Lisazo, **Adrià Casamitjana**, Arnau Oliver & Xavier Lladó. [_Latent-Space Ensemble Synthesis of Missing Brain Tumor MRI Modalities for BraTS Challenge_](https://link.springer.com/chapter/10.1007/978-3-032-16370-7_3) (2025) Segmentation, Classification, and Synthesis for Brain Tumors and Traumatic Brain Injuries, Dejeon (Korea). DOI: https://doi.org/10.1007/978-3-032-16370-7_3. Oral presentation.
+
+* **[MICCAI-BRATS-2025-2]** Valeriia Abramova, Agustin Cartaya Lathulerie, Uma M. Lal-Trehan Estrada, Cansu Yalçın, Rachika E. Hamadache, Clara Lisazo, Micaela Rivas Díaz, **Adrià Casamitjana**, Arnau Oliver & Xavier Lladó. [_Boundary-Aware Approach for Meningioma Segmentation in Radiotherapy Planning MRI_]([https://link.springer.com/chapter/10.1007/978-3-032-16370-7_3](https://link.springer.com/chapter/10.1007/978-3-032-16365-3_13) (2025) Segmentation, Classification, and Synthesis for Brain Tumors and Traumatic Brain Injuries, Dejeon (Korea). DOI: [https://doi.org/10.1007/978-3-032-16370-7_3](https://doi.org/10.1007/978-3-032-16365-3_13). Oral presentation.
+
+* **[MICCAI-TBI 2025]** R. E. Hamadache, C. Lisazo, C. Yalcin, V. Abramova, U. M. Lal-Trehan Estrada, A. C. Lathulerie, M. Rivas Díaz, A. Casamitjana, A. Oliver, and X. Lladó. "nnU-Net and Synthetic Lesions for Automated Segmentation of Moderate-to-Severe Traumatic Brain Injury". MICCAI - Automoated Identification of Moderate-Severe Traumatic Brain Injury Lesions. Daejeon, Corea. September 2025.
+
+* **[MICCAI-MBH 2025]** C.Yalçin, V.Abramova, R.Hamadache, U.M.Lal-Trehan, C.Lisazo, A.Casamitjana,A.Oliver, and X.Lladó. "VICOROB team participation". MICCAI - Multi-class Brain Hemorrhage Segmentation in Non-contrast Computed Tomography. Daejeon, Corea. September 2025.
+
+#### 2024
+* **[ISBI-2024-1]** **Adrià Casamitjana**, Arnau Oliver, Xavier Lladó. _Anatomically-aware automatic quantification of DaTSCAN images_ (2024) IEEE International Symposium on Biomedical Imaging (ISBI), Athens (Greece). Poster presentation.
+
+* **[ISBI-2024-2]** **Adria Casamitjana**, Juan Eugenio Iglesias, Raul Tudela, Aida Ninerola-Baizan, Roser Sala-Llonch. [_JUMP: A joint multimodal registration pipeline for neuroimaging with minimal preprocessing_](https://10.0.4.85/ISBI56570.2024.10635235) (2024) IEEE International Symposium on Biomedical Imaging (ISBI), Athens (Greece). DOI: https://10.0.4.85/ISBI56570.2024.10635235. Poster presentation.
+
+* **[FAIMI-2024]** Vien Ngoc Dang, **Adrià Casamitjana**, Jerónimo Hernández-González, Karim Lekadir. [_Mitigating Overdiagnosis Bias in CNN-Based Alzheimer’s Disease Diagnosis for the Elderly_](https://doi.org/10.1007/978-3-031-72787-0_5) (2024) Fairness of AI in Medical Imaging (FAIMI), Marrakesh (Morocco). DOI: https://doi.org/10.1007/978-3-031-72787-0_5. Oral presentation.
+
+* **[MICCAI-TOPCOW-2024]** R.Hamadache, C.Lisazo, C.Yalçin, V.Abramova, A.Casamitjana, A.Oliver, and X.Lladó. Segmentation of the Circle of Willis for CTA and MRA images. MICCAI - Topology-aware anatomical segmentation of the Circle of Willis Challenge. Marrakesh, Morocco. October 2024.
+ 
+* **[MICCAI-BRATS-2024]** V.Abramova, U.M.Lal-Trehan, C.Yalçin, R.Hamadache, C.Lisazo, A.Casamitjana, J.Salvi, A.Oliver, and X.Lladó. nnUnet for meningioma segmentation in radiotherapy planning MRI. MICCAI - BraTS challenge on meningioma segmentation. Marrakesh, Morocco. October 2024.
+ 
+* **[MICCAI-FETA-2024]** R.Hamadache, A.Bouzid, R.Montoya, M.Elbatel, A.Casamitjana, A.Oliver, R.Martí and X.Lladó. Segmentation of the FETA. MICCAI - Fetal tissue annotation and segmentation challenge. Marrakesh, Morocco. October 2024.
+ 
+* **[MICCAI-MBH-2024]** C.Yalçin, V.Abramova, R.Hamadache, U.M.Lal-Trehan, C.Lisazo, A.Casamitjana,A.Oliver, and X.Lladó. nnUnet-based semi-supervise multi-class brain hemorrhage segmentation in non-contrast CT with 3D cross pseudo supervision. MICCAI - Multi-class brain hemorrhage segmentatino in non-contrast CT. Marrakesh, Morocco. October 2024.
+
+#### 2023
+* **[FAIMI-2023]** Vien Ngoc Dang, **Adrià Casamitjana**, Martijn PA Starmans, Carlos Martín-Isla, Jerónimo Hernández-González, Karim Lekadir. [_Auditing Unfair Biases in CNN-Based Diagnosis of Alzheimer’s Disease_](https://doi.org/10.1007/978-3-031-45249-9_17) (2023) Fairness of AI in Medical Imaging (FAIMI), Vancouver (Canada). DOI: https://doi.org/10.1007/978-3-031-45249-9_17. Oral presentation.
+
+#### 2021
+* **[OHBM-2021]** Ana Lawry Aguila, **Adrià Casamitjana**, Marco Lorenzi, Sanjay Sisodiya, Andre Altmann. _Comparing classical and autoencoder multi-view methods for imaging genetics on a large-scale database_ (2015) Organization of Human Brain Mapping (OHBM), Glasgow (United Kingdom). Poster presentation.
+
+#### 2020
+* **[SASHIMI-2021]** **Adrià Casamitjana**, Matteo Mancini, Juan Eugenio Iglesias. [_Synth-by-reg (sbr): Contrastive learning for synthesis-based registration of paired images_](https://doi.org/10.1007/978-3-030-87592-3_5) (2020) Simulation and Synthesis in Medical Imaging (SASHIMI), Strasbourg (France). DOI: https://doi.org/10.1007/978-3-030-87592-3_5. Oral presentation and **best paper award (3000$)**
+
+* **[MICCAI-2020]** Henry FJ Tregidgo, **Adrià Casamitjana**, Caitlin S Latimer, Mitchell D Kilgore, Eleanor Robinson, Emily Blackburn, Koen Van Leemput, Bruce Fischl, Adrian V Dalca, Christine L Mac Donald, C Dirk Keene, Juan Eugenio Iglesias. [_3D reconstruction and segmentation of dissection photographs for MRI-free neuropathology_](https://doi.org/10.1007/978-3-030-59722-1_20) (2020) Medical Image Computing and Computed-Assisted Intervention (MICCAI), Strasbourg (France). DOI: https://doi.org/10.1007/978-3-030-59722-1_20. Oral presentation.
+
+#### 2018
+* **[PRIME-2018]** **Adria Casamitjana**, Paula Petrone, Jose Luis Molinuevo, Juan Domingo Gispert, Veronica Vilaplana. [_Shared Latent Structures Between Imaging Features and Biomarkers in Early Stages of Alzheimer’s Disease_](https://doi.org/10.1007/978-3-319-75238-9_33) (2018) International Workshop on PRedictive Intelligence In MEdicine, Granada (Spain). DOI: https://doi.org/10.1007/978-3-319-75238-9_33. Oral presentation.
+
+#### 2017
+* **[BrainLes-2017]** **Adrià Casamitjana**, Marcel Catà, Irina Sánchez, Marc Combalia, Verónica Vilaplana. [_Cascaded V-Net using ROI masks for brain tumor segmentation_](https://doi.org/10.1007/978-3-319-75238-9_33) (2017) International MICCAI Brainlesion Workshop, Quebec (Canada). DOI: https://doi.org/10.1007/978-3-319-75238-9_33. Poster presentation.
+
+#### 2016
+* **[ML4H-2016]** Santi Puch, Asier Aduriz, **Adrià Casamitjana**, Veronica Vilaplana, Paula Petrone, Grégory Operto, Raffaele Cacciaglia, Stavros Skouras, Carles Falcon, José Luis Molinuevo, Juan Domingo Gispert. _Voxelwise nonlinear regression toolbox for neuroimage analysis: Application to aging and neurodegenerative disease modeling_ (2016) ML4H Workshop in NeurIPS, Barcelona (Spain). Poster presentation.
+
+* **[BrainLes-2016]** **Adrià Casamitjana**, Santi Puch, Asier Aduriz, Verónica Vilaplana. [_3D Convolutional Neural Networks for Brain Tumor Segmentation: A Comparison of Multi-resolution Architectures_](https://doi.org/10.1007/978-3-319-55524-9_15) (2016) International Workshop on Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries, Athens (Greece). DOI: https://doi.org/10.1007/978-3-319-55524-9_15. Oral presentation.
+
+#### 2015
+* **[EUSIPCO-2015]** **Adrià Casamitjana**, Martin Sundin, Prasanta Ghosh, Saikat Chatterjee. [_Bayesian learning for time-varying linear prediction of speech_](https://ieeexplore.ieee.org/document/7362398) (2015) European Signal Processing Conference, Nice (France). DOI: 10.1109/EUSIPCO.2015.7362398. Poster presentation.
