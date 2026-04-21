@@ -15,14 +15,6 @@ author_profile: true
 - Reference: RYC2024-050753-I.
 - Description: -
 
-**Longitudinal biomarkers on brain MRI images.** [2024-2025]
-- P.I.: Dr. Adrià Casamitjana
-- Value: 94.518€
-- Role: Principal investigator
-- Funding agency: Universitat de Girona
-- Reference: POSTDOC_UdG2023/4
-- Description: -
-
 **ADONIS: Advanced deep learning techniques to develop robust neuroimaging tools** [2024-2026]
 - P.I.: Prof. Xavier Lladó
 - Value: 216.250€ + 125.200€
@@ -40,6 +32,14 @@ author_profile: true
 - Description: -
 
 ## Past projects
+
+**Longitudinal biomarkers on brain MRI images.** [2024-2025]
+- P.I.: Dr. Adrià Casamitjana
+- Value: 94.518€
+- Role: Principal investigator
+- Funding agency: Universitat de Girona
+- Reference: POSTDOC_UdG2023/4
+- Description: -
 
 **Disentangling heterogeneity in neurodegenerative diseases using large and small neuroimaging datasets: a multimodal and longitudinal perspective** [2022-2023]
 - P.I.: Dr. Adrià Casamitjana
