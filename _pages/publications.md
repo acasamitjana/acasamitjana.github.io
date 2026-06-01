@@ -10,9 +10,14 @@ author_profile: true
 ## Journal papers
 
 #### 2026
-[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. [_Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_]([https://www.nature.com/articles/s41586-025-09708-2](https://www.sciencedirect.com/science/article/pii/S0010482526000776)) (2026) __Computers in Biology and Medicine__. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516) [JCR: CSIA, IF:6.3, Q1(2/177)].
+[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. _Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_ (2026). __Computers in Biology and Medicine__ [JCR: CSIA, IF:6.3, Q1(2/177)].
+<br> DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516).
 
-[2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros [_Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_](https://www.sciencedirect.com/science/article/pii/S2405631626001004) (2026) __Physics and Imaging in Radiation Oncology__. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516)(https://doi.org/10.1016/j.phro.2026.101000) [JCR: RNM&MI, IF:3.3, Q1(46/212)].
+[2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros. _Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_ (2026). __Physics and Imaging in Radiation Oncology__.  [JCR: RNM&MI, IF:3.3, Q1(46/212)].
+<br> DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.phro.2026.101000).
+
+[3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__ [JCR: MG&I, IF:78.5, Q1(2/332)]. 
+<br> DOI: TBC.
 
 #### 2025
 [1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.[_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. DOI: https://doi.org/10.1038/s41586-025-09708-2 [JCR: MS, IF: 48.5, Q1(2/135)].
