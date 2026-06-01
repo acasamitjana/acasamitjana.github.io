@@ -16,7 +16,7 @@ author_profile: true
 [2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros. _Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_ (2026). __Physics and Imaging in Radiation Oncology__.  [JCR: RNM&MI, IF:3.3, Q1(46/212)].
 <br> DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.phro.2026.101000).
 
-[3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__ [JCR: MG&I, IF:78.5, Q1(2/332)]. 
+[3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__ [JCR: None]. 
 <br> DOI: TBC.
 
 #### 2025
