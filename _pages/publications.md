@@ -10,14 +10,13 @@ author_profile: true
 ## Journal papers
 
 #### 2026
-[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. _Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_ (2026). __Computers in Biology and Medicine__ [JCR: CSIA, IF:6.3, Q1(2/177)].
-<br> DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516).
+[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. _Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_ (2026). __Computers in Biology and Medicine__ [JCR: CSIA, IF:6.3, Q1(2/177)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516).
 
-[2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros. _Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_ (2026). __Physics and Imaging in Radiation Oncology__.  [JCR: RNM&MI, IF:3.3, Q1(46/212)].
-<br> DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.phro.2026.101000).
+[2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros. _Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_ (2026). __Physics and Imaging in Radiation Oncology__.  [JCR: RNM&MI, IF:3.3, Q1(46/212)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.phro.2026.101000).
 
-[3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__ [JCR: None]. 
-<br> DOI: TBC.
+[3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__  <br> DOI: TBC.
+
+[4] O. Puonti, J. Nolan, R. Dicamillo, Y. Balbastre, **A. Casamitjana**, M. Mancini, ..., J.E. Iglesias. _Fast segmentation with the NextBrain histological atlas_ (2026) __Imaging Neuroscience__. [JCR: N, IF:3, Q2(8/18)]. DOI: [https://doi.org/10.1016/j.phro.2026.101000](https://doi.org/10.1162/IMAG.a.1244). 
 
 #### 2025
 [1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.[_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. DOI: https://doi.org/10.1038/s41586-025-09708-2 [JCR: MS, IF: 48.5, Q1(2/135)].
@@ -28,7 +27,7 @@ author_profile: true
 #### 2024
 [1] Harshvardhan Gazula, Henry FJ Tregidgo, Benjamin Billot, Yael Balbastre, Jonathan William-Ramirez, Rogeny Herisse, Lucas J Deden-Binder, **Adrià Casamitjana**, Erica J Melief, Caitlin S Latimer, Mitchell D Kilgore, Mark Montine, Eleanor Robinson, Emily Blackburn, Michael S Marshall, Theresa R Connors, Derek H Oakley, Matthew P Frosch, Sean I Young, Koen Van Leemput, Adrian V Dalca, Bruce Fischl, Christine L Mac Donald, C Dirk Keene, Bradley T Hyman, Juan Eugenio Iglesias. [_Machine learning of dissection photographs and surface scanning for quantitative 3D neuropathology_](https://doi.org/10.7554/eLife.91398) (2024). __eLife__. Vol:12. [JCR: B, IF: 6.4, Q1(8/109)]. 
 
-[2] Karthik Gopinath, Andrew Hoopes, Daniel C Alexander, Steven E Arnold, Yael Balbastre, Benjamin Billot, **Adrià Casamitjana**, You Cheng, Russ Yue Zhi Chua, Brian L Edlow, Bruce Fischl, Harshvardhan Gazula, Malte Hoffmann, C Dirk Keene, Seunghoi Kim, W Taylor Kimberly, Sonia Laguna, Kathleen E Larson, Koen Van Leemput, Oula Puonti, Livia M Rodrigues, Matthew S Rosen, Henry FJ Tregidgo, Divya Varadarajan, Sean I Young, Adrian V Dalca, Juan Eugenio Iglesias. [_Synthetic data in generalizable, learning-based neuroimaging_](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867) (2024). **Imaging Neuroscience**.
+[2] Karthik Gopinath, Andrew Hoopes, Daniel C Alexander, Steven E Arnold, Yael Balbastre, Benjamin Billot, **Adrià Casamitjana**, You Cheng, Russ Yue Zhi Chua, Brian L Edlow, Bruce Fischl, Harshvardhan Gazula, Malte Hoffmann, C Dirk Keene, Seunghoi Kim, W Taylor Kimberly, Sonia Laguna, Kathleen E Larson, Koen Van Leemput, Oula Puonti, Livia M Rodrigues, Matthew S Rosen, Henry FJ Tregidgo, Divya Varadarajan, Sean I Young, Adrian V Dalca, Juan Eugenio Iglesias. [_Synthetic data in generalizable, learning-based neuroimaging_](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867) (2024) [JCR: N, IF:3, Q2(8/18)]. **Imaging Neuroscience**.
 
 #### 2022
 [1] **Adrià Casamitjana**, Juan Eugenio Iglesias. [_High-resolution atlasing and segmentation of the subcortex: Review and perspective on challenges and opportunities created by machine learning_](https://doi.org/10.1016/j.neuroimage.2022.119616) (2022). **Neuroimage**, 263, 119616. [JCR: N, IF: 5.7, Q1(1/14)].  
