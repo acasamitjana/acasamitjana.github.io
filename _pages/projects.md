@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## Current projects
+**Modelos longitudinales del cerebro normativo para la predicción precoz de enfermedades neurológicas (LIFESPAN)** [2026-2029]
+- P.I.: Dr. Adrià Casamitjana and Dr. Mariano Cabezas
+- Value: 122.375€
+- Role: Principal investigator
+- Funding agency: Ministerio de Ciencia, Innovación y Universidades
+- Reference: PID2025-168811OB-I00
+- Description: LIFESPAN’s main objective is to develop novel and advanced image analysis and deep learning solutions to improve current technology in brain imaging studies. The project proposes to push beyond the state of the art in different research areas developing consistent, robust and precise imaging biomarkers and proposing novel predictive models for brain health studies through the development stage (fetus) and aging. 
+
 
 **Ramón y cajal fellowship** [2026-2030]
 - P.I.: Dr. Adrià Casamitjana
