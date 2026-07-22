@@ -32,20 +32,36 @@ author_profile: true
 
 ## Supervised Master thesis
 
-**[2024]** Clara Lisazo. _Brain age estimation from MRI images_
+**[2026]** [Pol Monterde](https://www.linkedin.com/in/polmonterde/). _A quantitative and visual framework for CTA-derived brain venous biomarkers in acute ischaemic stroke towards clinical decision support_ (tutor)
 
-**[2023]** Marc Salat. _Organization of large scale neuroimaging datasets following the BIDS protocol: an application to the ADNI study_
+**[2026]** [Marta Major](https://www.linkedin.com/in/marta-major-munich-86ab70145/). _Exploring Alzheimer's disease risk through machine learning and neuroimaging biomarkers._
 
-**[2018]** Clara Bonnín. _Brain lesion segmentation using Convolutional Neuronal Networks_
+**[2025]** [Marina Mas](https://www.linkedin.com/in/marina-mas-argem%C3%AD-020634227/). _A pipeline for analysis of functional brain connectivity using multidimensional decompositions from fMRI data: Application to Alzheimer’s Disease_ (tutor)
+
+**[2024]** [Habtamu Yihun](https://www.linkedin.com/in/habtamu-yihun-worku-7a544321a/). _Representation learning for brain age and disease prediction models using brain MRI_
+
+**[2024]** [Clara Lisazo](https://www.linkedin.com/in/clara-lisazo-4ab3611a5/). _Brain age estimation from MRI images_
+
+**[2023]** [Marc Salat](https://www.linkedin.com/in/marcsalatvilardaga/). _Organization of large scale neuroimaging datasets following the BIDS protocol: an application to the ADNI study_
+
+**[2018]** [Clara Bonnín](https://www.linkedin.com/in/clabonros/). _Brain lesion segmentation using Convolutional Neuronal Networks_
 
 
 ## Supervised Bachelor thesis
 
-**[2023]** Lluís Pellicer. _Automatic segmentation of regions of interest in vaginal brachytherapy_
+**[2026]** Guillem Bouzas. _Estudi multimodal per a l’estratificació de pacients en diferents estadis de la malaltia de l’Alzheimer._
+
+**[2026]** [Arnau Deprez](https://www.linkedin.com/in/arnau-d/). _Deep learning-based classification of Parkinson’s disease from DaTscan images._
+
+**[2025]** [Jan Reglà](https://www.linkedin.com/in/janrt/). _Disseny i implementació d'un model per a la millora de la segmentació de teixits cerebrals en imatges MRI amb informació longitudinal per a l'estudi de l'Alzheimer._
+
+**[2024]** [Rània Reguigui](https://www.linkedin.com/in/rania-reguigui-kharraz-266a95236/). _Segmentació del nucli estria_
+
+**[2023]** [Lluís Pellicer](https://www.linkedin.com/in/llu%C3%ADs-pellicer-bolet/?locale=en). _Automatic segmentation of regions of interest in vaginal brachytherapy_
 
 **[2017]** David Rodríguez. _Extracción de cráneo en imágenes de resonancia magnética del cerebro utilizando una red neuronal convolucional 3D_
 
-**[2016]** Marcel Catà. _Feature selection methods for predicting pre-clinical stage in Alzheirmer's Disease_
+**[2016]** [Marcel Catà](https://www.linkedin.com/in/marcel-cata-villa/). _Feature selection methods for predicting pre-clinical stage in Alzheirmer's Disease_
 
 <!--- 
 {% include base_path %}
