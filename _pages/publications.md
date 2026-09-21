@@ -10,13 +10,15 @@ author_profile: true
 ## Journal papers
 
 #### 2026
-[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. _Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_ (2026). __Computers in Biology and Medicine__ [JCR: CSIA, IF:6.3, Q1(2/177)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516).
+[1] R. E. Hamdache, C. Lisazo, C. Yalcin, U. Lal-Trehan Estrada, V. Abramova, **A. Casamitjana**, A. Oliver, X. Lladó. _Topology-aware multiclass segmentation of the Circle of Willis from MRA and CTA images_ (2026). __Computers in Biology and Medicine__ [JCR: CSAI, IF:6.3, Q1(26/177)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.compbiomed.2026.111516).
 
 [2] **A. Casamitjana**, A.M. Gómez Fresco, C. Candela-Juan, R. Tudela, R. Sala-Llonch, S. Moreno López, F. Noorian, A. Rovirosa, A. Niñerola, A. Herreros. _Robust framework for adaptive field-of-view automatic segmentation in vaginal brachytherapy for endometrial cancer_ (2026). __Physics and Imaging in Radiation Oncology__.  [JCR: RNM&MI, IF:3.3, Q1(46/212)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1016/j.phro.2026.101000).
 
 [3] K. Yang, F, Musio, [...86...], **A. Casamitjana**, [...24...] B. Menze.A. _The TopCoW Challenge: Topology-Aware Circle of Willis Segmentation for CT and MR Angiography_ (2026) __The New England Journal of Medicine (NEJM)__  <br> DOI: TBC.
 
 [4] O. Puonti, J. Nolan, R. Dicamillo, Y. Balbastre, **A. Casamitjana**, M. Mancini, ..., J.E. Iglesias. _Fast segmentation with the NextBrain histological atlas_ (2026) __Imaging Neuroscience__. [JCR: N, IF:3, Q2(8/18)]. DOI: [https://doi.org/10.1016/j.phro.2026.101000](https://doi.org/10.1162/IMAG.a.1244). 
+
+[5] C. Lisazo, **A. Casamitjana**, A.Cataya, A. Oliver, X. Lladó, _Learning age-conditioned brain atlases via free-prototype modeling for brain age prediction_ (2026) __Artificial Intelligence in Medicine__. [JCR: CSAI, IF: 7.8, Q1(35/210)]. DOI: [https://doi.org/10.1016/j.artmed.2026.103534](https://doi.org/10.1016/j.artmed.2026.103534)
 
 #### 2025
 [1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.[_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. DOI: https://doi.org/10.1038/s41586-025-09708-2 [JCR: MS, IF: 48.5, Q1(2/135)].
