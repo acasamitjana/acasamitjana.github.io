@@ -22,6 +22,8 @@ author_profile: true
 
 [6] Gubau‐Besalú M., **Casamitjana A.**, Candela‐Juan C., Agustí-Cambrubí E., Segura-Roca G., Trias G. Herreros A.. _Automated verification of source dwell position in lunar ovoid applicators_ (2026). __J Appl Clin Med Phys__. DOI: [https://doi.org/10.1002/acm2.70887](https://doi.org/10.1002/acm2.70887). [JCR: RNM&MI, IF: 2.5 Q2(93/217)]
 
+[7] de la Rosa, E. [...], **Casamitjana A.**, [...], Menze, B. _ISLES’24: Final stroke infarct prediction with multimodal imaging and clinical data. Where do we stand?_ (2026). __Medical Image Analysis__. DOI: [ https://doi.org/10.1016/j.media.2026.104362]( https://doi.org/10.1016/j.media.2026.104362). [JCR: CSIA, IF: 10.7, Q1(4/170)]
+
 #### 2025
 [1] **Adrià Casamitjana**, Matteo Mancini, Eleanor Robinson, Loïc Peter, Roberto Annunziata, Juri Althonayan, Shauna Crampsie, Emily Blackburn, Benjamin Billot, Alessia Atzeni, Oula Puonti, Yaël Balbastre, Peter Schmidt, James Hughes, Jean C Augustinack, Brian L Edlow, Lilla Zöllei, David L Thomas, Dorit Kliemann, Martina Bocchetta, Catherine Strand, Janice L Holton, Zane Jaunmuktane, Juan Eugenio Iglesias.[_A probabilistic histological atlas of the human brain for MRI segmentation_](https://www.nature.com/articles/s41586-025-09708-2) (2025) __Nature__. [JCR: MS, IF: 48.5, Q1(2/135)]. DOI: [https://doi.org/10.1038/s41586-025-09708-2](https://doi.org/10.1038/s41586-025-09708-2)
 
